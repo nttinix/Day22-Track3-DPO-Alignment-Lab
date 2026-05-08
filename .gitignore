@@ -38,3 +38,9 @@ hf_cache/
 .idea/
 .vscode/
 *.swp
+*.safetensors
+*.bin
+adapters/merged-fp16/
+adapters/sft-mini-checkpoints/
+adapters/dpo-checkpoints/
+lab22_export/
